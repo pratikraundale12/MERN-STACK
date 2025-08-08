@@ -14,9 +14,21 @@ This is a simple MERN (MongoDB, Express.js, React.js, Node.js) stack application
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/arjungautam1/MERN_STACK
+   git clone [https://github.com/pratikraundale](https://github.com/pratikraundale12/MERN-STACK.git)
+/MERN_STACK
 
-## Tutorial
+  ```bash
+cd MERN-STACK
 
-For a step-by-step tutorial on how to build this MERN stack application, check out the YouTube channel [CodeWithArjun](https://www.youtube.com/codewitharjun).
+ ```bash
+cd k8s ymls
+
+ ```bash
+kubectl apply -f .
+---------------------
+Enjoy
+
+
+
+
 
