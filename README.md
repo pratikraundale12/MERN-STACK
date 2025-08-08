@@ -15,12 +15,11 @@ This is a simple MERN (MongoDB, Express.js, React.js, Node.js) stack application
 
    ```bash
    git clone [https://github.com/pratikraundale](https://github.com/pratikraundale12/MERN-STACK.git)
-/MERN_STACK
 
   ```bash
 cd MERN-STACK
 
- ```bash
+  ```bash
 cd k8s ymls
 
  ```bash
