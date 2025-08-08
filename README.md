@@ -11,23 +11,16 @@ This is a simple MERN (MongoDB, Express.js, React.js, Node.js) stack application
 
 ## Installation
 
-1. Clone the repository:
+## Steps to Run
 
-   ```bash
-   git clone [https://github.com/pratikraundale](https://github.com/pratikraundale12/MERN-STACK.git)
+# Clone the repository
+git clone https://github.com/pratikraundale12/MERN-STACK.git
 
-  ```bash
+# Navigate into the project directory
 cd MERN-STACK
 
-  ```bash
-cd k8s ymls
+# Go to the Kubernetes YAMLs folder
+cd "k8s ymls"
 
- ```bash
+# Apply all Kubernetes manifests
 kubectl apply -f .
----------------------
-Enjoy
-
-
-
-
-
